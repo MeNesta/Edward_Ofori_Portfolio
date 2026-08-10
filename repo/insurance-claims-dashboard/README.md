@@ -43,7 +43,9 @@ Insurance providers need a clear, at-a-glance view of where claim costs are conc
 `Python` `Data Cleaning` `Google BigQuery` `SQL/Cloud Data Warehousing` `Power BI` `DAX` `Dashboard Design` `KPI Reporting`
 
 ## Files
-Open the `.pbix` file in []
+Open the `.pbix` file in [https://github.com/MeNesta/Edward_Ofori_Portfolio/tree/main]
+|
+[Python file](http://localhost:8888/notebooks/Desktop/Python%20codes/insurance.ipynb?) Open in jupyter notebook
 
 - `Insurance_dashboard.pbix` — Power BI report file
 - _(add cleaning script/notebook if available)_
