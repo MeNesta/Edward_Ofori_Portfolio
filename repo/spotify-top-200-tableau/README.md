@@ -7,8 +7,9 @@ A Tableau dashboard exploring the Spotify Weekly Global Top 200 charts — surfa
 
 **Tools:** Tableau (data extract + dashboard)
 
-![Dashboard preview](./screenshot.png)
-*(Add a screenshot of the dashboard here — drop an image named `screenshot.png` in this folder)*
+Dashboard preview
+<img width="1652" height="845" alt="spotify_200_Db" src="https://github.com/user-attachments/assets/caa5318f-5f1a-48df-a749-714bd781205d" />
+
 
 ## Problem
 The Global Top 200 is a huge, constantly shifting list. On its own it's just a table of song titles and stream counts — it doesn't show who the *consistently* dominant artists are, how monthly streaming volume trends, or how many unique tracks/albums/artists actually cycle through the chart over time.
