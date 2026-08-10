@@ -7,8 +7,14 @@ An interactive Power BI dashboard analyzing insurance claims data — built to h
 
 **Tools:** Python (cleaning), Google BigQuery (data storage/querying), Power BI (dashboard)
 
-![Dashboard preview](./screenshot.png)
-*(Add a screenshot of the dashboard here — drop an image named `screenshot.png` in this folder)*
+Dashboard preview 
+<img width="1368" height="742" alt="Screenshot 2026-08-09 235852" src="https://github.com/user-attachments/assets/6592bea0-08cb-4ee8-8694-d164aa49a94d" />
+
+<img width="1891" height="802" alt="Bigquery Ss" src="https://github.com/user-attachments/assets/24d147d1-67d7-4f82-b887-9c5388797ff6" />
+
+<img width="1823" height="846" alt="insurance_claims_python_Ss" src="https://github.com/user-attachments/assets/44f4bc89-c34e-4761-9646-19b20a43b019" />
+
+
 
 ## Problem
 Insurance providers need a clear, at-a-glance view of where claim costs are concentrated — by company, claim type, and time period — and how many claims are still open vs. resolved. Raw claims data on its own doesn't answer "where is the risk/cost coming from?" without aggregation and visualization.
