@@ -35,7 +35,7 @@ A bike retailer wants to know: what does the typical bike-buying customer look l
 `Excel` `PivotTables & PivotCharts` `Feature Engineering (binning/age brackets)` `Slicers` `Dashboard Design`
 
 ## Files
-Open the `.xlsx` file in Excel — the Dashboard sheet has interactive slicers.
+Open the [BikeBuyers_data](https://docs.google.com/spreadsheets/d/1BsJQraMfZoR43a4ri7hLqvRXDDGo-ukpYnTqLwM7Z9Q/edit?usp=sharing) file in Excel — the Dashboard sheet has interactive slicers.
 
 - `BikeBuyers_Data.xlsx` — full workbook (raw data, working sheet, pivot table, dashboard)
 
