@@ -7,8 +7,7 @@ An end-to-end SQL data cleaning project on a real-world global tech layoffs data
 
 **Tools:** MySQL
 
-![Dashboard preview](./screenshot.png)
-*(Add a screenshot of the dashboard here — drop an image named `screenshot.png` in this folder)*
+Screen Shot preview <img width="1272" height="610" alt="layoffs_Ss" src="https://github.com/user-attachments/assets/368609fb-153c-4f56-a16b-20f3fb663598" />
 
 ## Problem
 Raw datasets pulled from public sources are rarely analysis-ready: duplicate rows, inconsistent text formatting (trailing punctuation, category variants like "Crypto", "Crypto Currency", "CryptoCurrency"), dates stored as text, and a mix of NULLs and blank strings. Before any trend analysis on layoffs can be trusted, the data has to be cleaned — without touching the original raw table.
