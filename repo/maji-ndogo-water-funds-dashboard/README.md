@@ -7,8 +7,12 @@ A public-facing Power BI dashboard built to track how water infrastructure impro
 
 **Tools:** SQL (data exploration), Power BI (data modeling with DAX + dashboard)
 
-![Dashboard preview](./screenshot.png)
-*(Add a screenshot of the dashboard here — drop an image named `screenshot.png` in this folder)*
+Dashboard preview
+<img width="1313" height="737" alt="maji_db_3" src="https://github.com/user-attachments/assets/167a8358-ffb6-4217-888c-d395f177c4df" />
+<img width="1320" height="727" alt="maji_db_4" src="https://github.com/user-attachments/assets/eac55675-3fc9-44f9-946e-f27ffdb3e8be" />
+<img width="1308" height="736" alt="maji_DB_2" src="https://github.com/user-attachments/assets/b2a7f0ba-30a3-4bda-8f70-e6b94a342678" />
+<img width="1313" height="725" alt="maji_dashboard" src="https://github.com/user-attachments/assets/db30fb5f-999e-4b78-96b6-3b3a13398040" />
+
 
 ## Problem
 Public infrastructure spending is only trustworthy if it's visible. Citizens, auditors, and oversight bodies need to be able to see: how much was budgeted vs. actually spent on each water-source improvement, which vendors were paid and how much, and whether projects are progressing on schedule — broken down by province and location type (rural vs. urban).
