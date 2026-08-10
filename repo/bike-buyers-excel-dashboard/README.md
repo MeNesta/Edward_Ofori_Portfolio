@@ -7,8 +7,7 @@ An Excel-based dashboard analyzing customer demographics to understand who actua
 
 **Tools:** Excel (PivotTables, PivotCharts, Slicers)
 
-![Dashboard preview](./screenshot.png)
-*(Add a screenshot of the dashboard here — drop an image named `screenshot.png` in this folder)*
+Dashboard preview <img width="1502" height="697" alt="Screenshot 2026-08-10 001451" src="https://github.com/user-attachments/assets/c69028c3-15b3-495b-875a-bc5666f80f37" />
 
 ## Problem
 A bike retailer wants to know: what does the typical bike-buying customer look like? Understanding which demographic segments (age, income, commute distance, occupation, region) are most likely to purchase helps target marketing and stock decisions more effectively.
