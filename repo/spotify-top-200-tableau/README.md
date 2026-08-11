@@ -39,7 +39,7 @@ Accra Tableau Bootcamp — live community presentation to fellow Tableau users.
 `Tableau` `Data Storytelling` `Dashboard Design` `Public Speaking / Presenting Analysis`
 
 ## Files
-Open the `.twbx` file in [Tableau Desktop or Tableau Reader](https://www.tableau.com/products/reader) (free) to explore it interactively.
+Open the `.twbx` file in (https://public.tableau.com/app/profile/edward.ofori8411/viz/SpotifyTop200Project/SpotifyTop200)(free) to explore it interactively.
 
 - `Spotify_Top_200_Project.twbx` — packaged Tableau workbook (includes data extract)
 
